@@ -1,0 +1,24 @@
+.installset main{
+	padding: 0rem;
+}
+.installset #installform{
+	width: 100%;
+	border-radius: 0px;
+}
+
+.mainbody main{
+	padding: 2rem;
+	padding-top: 9rem;
+}
+
+.mainbody main .bod{
+	padding: 1rem;
+}
+
+.newnotebody main{
+	background: #f1f3f5;
+	padding: 2rem;
+	padding-top: 3rem;
+	min-height: 90vh;
+	font-family: Montserrat,Roboto,sans-serif;
+}
